@@ -1,0 +1,1 @@
+esptool.py --chip ESP32 merge_bin -o merged-flash.bin @flash_args
